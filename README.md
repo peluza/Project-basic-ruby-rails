@@ -1,4 +1,4 @@
-# ruby rails basic project
+# Ruby rails basic project
 
 - Install required packages, in the folder shell
 
